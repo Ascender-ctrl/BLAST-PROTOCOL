@@ -1,0 +1,9 @@
+*.0
+*.out
+sender
+receiver
+garbler_test
+*.bin
+*.dat
+test_output/
+.vscode/
