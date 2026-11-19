@@ -7,3 +7,6 @@ garbler_test
 *.dat
 test_output/
 .vscode/
+
+*.dSYM/
+__pycache__/
